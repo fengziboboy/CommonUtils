@@ -13,7 +13,7 @@
 一些工作中常用的工具
 >欢迎补充和修改
 
-[工具网址](index.html)
+[工具网址](https://fengziboboy.github.io/CommonUtils/)
   
 #  功能
   
